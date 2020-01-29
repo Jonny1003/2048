@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=IAI
+comment1.params=
+comment1.target=int\ makeRandomMove()
+comment2.params=
+comment2.target=int\ getScore()
+comment3.params=num
+comment3.target=void\ setScore(int)
+comment4.params=b\ move
+comment4.target=void\ move(Board,\ int)
+numComments=5

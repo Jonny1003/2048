@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AbstractSimulation
+comment1.params=data
+comment1.target=double\ calculateMean(java.util.ArrayList)
+comment2.params=data
+comment2.target=double\ calculateDeviation(java.util.ArrayList)
+comment3.params=containerSize\ data
+comment3.target=void\ drawHistogram(int,\ java.util.ArrayList)
+numComments=4

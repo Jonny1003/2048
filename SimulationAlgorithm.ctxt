@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SimulationAlgorithm
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numSamples
+comment2.target=java.util.ArrayList\ simulateSamples(int)
+comment3.params=
+comment3.target=java.util.ArrayList\ samplingDistribution()
+numComments=4

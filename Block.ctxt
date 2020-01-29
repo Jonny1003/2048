@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Block
+comment1.params=val
+comment1.target=Block(int)
+comment2.params=val\ rectSize
+comment2.target=Block(int,\ int)
+comment3.params=
+comment3.target=int\ getValue()
+comment4.params=
+comment4.target=java.awt.image.BufferedImage\ getImage()
+numComments=5

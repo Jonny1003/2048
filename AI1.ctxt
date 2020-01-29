@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AI1
+comment1.params=
+comment1.target=AI1()
+comment2.params=
+comment2.target=void\ playGame()
+comment3.params=
+comment3.target=void\ playGUI()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=size
+comment5.target=void\ filterData(int)
+comment6.params=a\ b
+comment6.target=boolean\ checkState(int[][],\ boolean[][])
+comment7.params=index\ size
+comment7.target=boolean\ checkDecrease(int,\ int)
+comment8.params=boardState
+comment8.target=int\ findBestMove(int[][])
+numComments=9
